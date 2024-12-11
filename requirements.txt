@@ -1,0 +1,6 @@
+groq
+gtts
+pillow
+numpy
+matplotlib
+playsound
